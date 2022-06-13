@@ -1,5 +1,11 @@
-1. The project implements one-page landing according to given design. It is created to demonstrate html and CSS skills.
-Landing is adapted for desctop, large screens, mobile and tablet.
+1. The project implements one-page landing according to given design. It is created to demonstrate HTML and CSS skills.
+Landing is adapted for desctop, large screens, mobile and tablet. The smallest screen width is concidered as 320 px. If you use smaller screen,
+the page may be not displayed correct.
+The landing is based on such screen sizes:
+- The design 1440px (large screen)
+- Notebook 1280px
+- Tablet 768px
+- Mobile (> 320px)
 In some places falsy links in href are used, because there no pages to visit in this landing (they could be implemented in the whole site).
 So for example click on the button for tickets purchase will not affect opening any new page. Java Script was used a little just for making interactive behaviour for some elements, such as simple slider for mobile and tablet versions.
 
